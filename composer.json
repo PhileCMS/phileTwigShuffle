@@ -1,0 +1,21 @@
+{
+	"name": "phile/twig-schuffle",
+	"type": "phile-plugin",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Shuffle an associative array with Twig",
+    "homepage": "http://philecms.com",
+    "keywords": ["cms","phile","content"],
+    "authors": [
+        {
+            "name": "James Doyle",
+            "email": "james2doyle@gmail.com",
+            "homepage": "http://ohdoylerules.com/",
+            "role": "Developer"
+        }
+    ],
+	"require": {
+        "phile-cms/phile": "1.0.0",
+        "phile-cms/plugin-installer-plugin": "1.0.0"
+	}
+}
