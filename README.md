@@ -1,3 +1,5 @@
+**NOTE:** This repository is not maintained anymore and archived. Use https://github.com/PhileCMS/phileTwigFilters instead.
+
 phileTwigShuffle
 ===================
 

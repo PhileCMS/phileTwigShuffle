@@ -14,6 +14,7 @@
             "role": "Developer"
         }
     ],
+    "abandoned": "phile/twig-filters",
 	"require": {
         "phile-cms/phile": ">=1",
         "phile-cms/plugin-installer-plugin": ">=1"
